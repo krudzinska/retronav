@@ -1,6 +1,6 @@
 # Retro Burger-Navigation
 
-a show/hide navigation for a single-page React app
+### a show/hide navigation for a single-page React app
 
 Technologies used: HTML, CSS, Sass, Webpack, JavaScript, React, ReactRouter
 
